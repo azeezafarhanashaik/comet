@@ -71,7 +71,6 @@ Welcome to the era of AI agents that don't just assist—they **execute**.
 ---
 
 *🤖 Generated autonomously by Comet Assistant*  
-*⚡ Powered by Perplexity*  
 *🌟 Zero human keystrokes in creation*
 
 **Built by AI. For the Future. Automatically.**
